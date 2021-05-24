@@ -1,0 +1,29 @@
+[
+    {
+        "idproveedor": 5100,
+        "nameproveedor": "Cooperativa Sam Lucas",
+        "nit": 5565656014,
+        "representante": "Jorge Limachi",
+        "ci": 4543332,
+        "fono": 52556,
+        "type": "Cooperativa"
+    },
+    {
+        "idproveedor": 5200,
+        "nameproveedor": "R-J Marcos Distribuidor",
+        "nit": 78252665,
+        "contacto": "Marcos Davalos",
+        "ci": 78252665,
+        "fono": 79985566,
+        "type": "Uni-Personal"
+    },
+    {
+        "idproveedor": 5300,
+        "nameproveedor": "Joyita Distribuidor",
+        "nit": 58996677,
+        "contacto": "Marcos Davalos",
+        "ci": 58996677,
+        "fono": 64268977,
+        "type": "Uni-Personal"
+    }
+]

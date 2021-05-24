@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Ever Admin",
+        "username": "Admin",
+        "email": "ever@admin.com",
+        "password": "12345",
+        "fono": 75155556,
+        "role": "Administrador"
+    },
+   {
+        "id": 2,
+        "name": "Jorge",
+        "username": "Jventas",
+        "email": "jorge@gmail.com",
+        "password": "54321",
+        "fono": 78121241,
+        "role": "Encargado de Compras"
+    }, 
+    {
+        "id": 3,
+        "name": "Juan",
+        "username": "Jcajero",
+        "email": "juan@cajero.com",
+        "password": "cajero",
+        "fono": 72478521,
+        "role": "Encargado de Pagos"
+    }
+
+]
