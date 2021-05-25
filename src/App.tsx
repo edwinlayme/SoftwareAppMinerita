@@ -1,18 +1,14 @@
 import React,{useEffect} from 'react';
 import TopMenu from './components/topMenu/TopMenu';
 import useFetch from './hooks/useFetch';
-import { urlApiUser } from './utils/constant';
-import Users from './components/users/Users';
 
-function App() {
-     const users = useFetch(urlApiUser,null);
-  console.log(users);
-  return (
-    <div>
-     <TopMenu />
-     <Users users={users}/>
-   </div>
+import SideBar from './components/menu/SideBar';
+import AppRouter from './routers/AppRouter';
+
+export default function App() {
+return (
+    <>
+   <AppRouter/>
+   </>
   );
 }
-
-export default App;

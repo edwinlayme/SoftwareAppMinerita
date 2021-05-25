@@ -6,12 +6,14 @@ import './TopMenu.scss';
 
 export default function TopMenu() {
     return (
+      <>
      <Navbar bg="dark" variant="dark" className="top-menu">
       <Container>
         <BrandNav />
       {/*<MenuNav/>*/ }   
        </Container>
      </Navbar>
+     </>
     );
 }
 
